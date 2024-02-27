@@ -15,7 +15,7 @@ int main(){
 		cout << "adult \n ";
 	}
 	
-		if ((age2> 0) && (age2  < 120)){
+	if ((age2> 0) && (age2  < 120)){
 		cout << "\n age1 if vilad \n";
 	}
 	if (age2 > 18){
