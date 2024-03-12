@@ -5,9 +5,10 @@ int main(){
 	cout << "Enter the value of n" << endl;
 	cin  >>b;
 	while(a <=b){
-		cout << a << endl;
+		
 		++a; 
 		++a;
 	}
+	cout << "The sum is : " <<c;
 	return 0;
 }
